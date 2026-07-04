@@ -4,4 +4,5 @@
 
 | No. | Question | Solution |
 |-----|----------|----------|
-| 1 | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Java](./JMultiples.java) |
+| 1 | [JMultiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Java](./JMultiples.java) |
+| 1 | [TSortNumbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [Java](./TSortNumbers) |
