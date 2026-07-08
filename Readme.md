@@ -1,6 +1,29 @@
 # 🚀 [Codeforces](https://codeforces.com/profile/VPDS)
 
+## 📘  Questions
+
 ## 📘 Basic Questions
+### Topic: Data Type, 
+
+| No. | Question | Solution |
+|-----|----------|----------|
+| 1 | [BBasicDataTypes](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Java](./BBasicDataTypes.java) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | No. | Question | Solution |
 |-----|----------|----------|
