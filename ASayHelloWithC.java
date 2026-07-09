@@ -9,5 +9,6 @@ public class ASayHelloWithC
         String s = sc.next();
         
         System.out.println("Hello, "+s);
+        sc.close();
     }
 }
