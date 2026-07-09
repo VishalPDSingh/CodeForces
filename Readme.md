@@ -1,42 +1,25 @@
-# 🚀 [Codeforces](https://codeforces.com/profile/VPDS)
+# 🚀 Codeforces Solutions
 
-## 📘  Questions
+Welcome to my **Codeforces** repository! This repository contains my Java solutions to Codeforces problems, organized topic-wise for easy navigation.
 
-## 📘 Basic Questions :https://codeforces.com/group/MWSDmqGsZm/contest/219158
-### Topic: Data Type, 
+🔗 **Codeforces Profile:** https://codeforces.com/profile/VPDS
 
-| No. | Question | Solution |
-|-----|----------|----------|
-| 1 | [ASayHelloWithC](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Java](./ASayHelloWithC.java) |
-| 2 | [BBasicDataTypes](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Java](./BBasicDataTypes.java) |
-| 3 | [CSimpleCalculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Java](./CSimpleCalculator.java) |
-| 4 | [DDifference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [Java](./DDifference.java) |
-| 5 | [EAreaOfACircle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [Java](./EAreaOfACircle.java) |
-| 6 | [FDigitsSummation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Java](./FDigitsSummation.java) |
-| 7 | [GSummationFrom1ToN](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Java](./GSummationFrom1ToN.java) |
-| 8 | [HTwoNumbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Java](./HTwoNumbers.java) |
-| 9 | [IWelcomeForYouWithConditions](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [Java](./IWelcomeForYouWithConditions.java) |
+---
 
+# 📘 Basic Questions
 
+### 📚 Sheet: Data Types
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🔗 **Problem Set:** https://codeforces.com/group/MWSDmqGsZm/contest/219158
 
 | No. | Question | Solution |
-|-----|----------|----------|
-| 1 | [JMultiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Java](./JMultiples.java) |
-| 2| [TSortNumbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [Java](./TSortNumbers.java) |
-| 3| [FDigitsSummation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Java](./FDigitsSummation.java) |
+|:---:|----------|:--------:|
+| 1 | [A. Say Hello With C](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [💻 Java](./ASayHelloWithC.java) |
+| 2 | [B. Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [💻 Java](./BBasicDataTypes.java) |
+| 3 | [C. Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [💻 Java](./CSimpleCalculator.java) |
+| 4 | [D. Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [💻 Java](./DDifference.java) |
+| 5 | [E. Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [💻 Java](./EAreaOfACircle.java) |
+| 6 | [F. Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [💻 Java](./FDigitsSummation.java) |
+| 7 | [G. Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [💻 Java](./GSummationFrom1ToN.java) |
+| 8 | [H. Two Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [💻 Java](./HTwoNumbers.java) |
+| 9 | [I. Welcome for You with Conditions](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [💻 Java](./IWelcomeForYouWithConditions.java) |
