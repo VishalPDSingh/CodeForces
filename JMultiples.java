@@ -8,7 +8,7 @@ public class JMultiples {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        if(a%b==0 || b%a==0)
+        if(a%b==0 || b%a==0) 
         {
             System.out.println("Multiples");
         }
